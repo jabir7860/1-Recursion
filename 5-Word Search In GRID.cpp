@@ -33,3 +33,7 @@ public:
         return false;
     }
 };
+🔚 Final Answer:
+Time Complexity: O(n × m × 4^L)
+
+Space Complexity: O(L) (due to recursion stack)
